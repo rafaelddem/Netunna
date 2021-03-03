@@ -1,0 +1,23 @@
+Atividade 2:
+a) Os dados da venda se encontram no arquivo “extrato_eletronico_20171223-390833_23122017_000000692_400.TXT”, na linha “2065”.
+b) R$ 359,60.
+c) Esse registro se refere ao chargeback dessa venda.
+d) Os dados da venda se encontram no arquivo “01167639000129.BJR02.D1190314.T023840”, na linha “6”.
+e) R$ 129,85.
+f) Os dados referente ao recebimento da venda se encontram no arquivo “01167639000129.BJR06.D1190314.T033915”, na linha “4”.
+
+Atividade 3:
+
+
+Atividade 4:
+
+Bom dia,
+
+Meu nome é Rafael, e sou funcionário da Netunna, empresa responssavel pela conciliação financeira das transações de cartões, efetuadas pelo seu estabelecimento.
+Estou entrando em contato para solicitar algumas informações necessárias para a integração de nosso sistema com sua empresa.
+Será necessário sabermos com quais adquirentes você trabalha, para que possamos entrar em contato com elas, afim de solicitar o recebimento diário dos dados das transações efetuadas no estabelecimento. Também precisamos dos dados dos gerentes das contas, para que possamos entrar em contato com eles, e assim, solicitar o inicio do tráfego de dados com os bancos.
+Reforço que estas informações são necessárias para dar continuidade a integração do sistema, por isso, fico no aguardo de uma resposta com o envio das mesmas.
+
+Grato,
+Rafael Delfino de Medeiros
+Netunna - Setor de implantação
