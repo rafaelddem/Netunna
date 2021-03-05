@@ -1,3 +1,6 @@
+Atividade 1:
+Como citado no e-mail que enviei, o arquivo "01167639000129.BJR76.D1181008.T012700" possui uma informação em seu header (BJRVCMB), que não foi catalogado no pdf, por isso fiquei em dúvida de onde ele deveria ser armazenado. Então deixei ele em uma pasta genérica, a qual nomeei como "Arquivos não catalogados"
+
 Atividade 2:
 a) Os dados da venda se encontram no arquivo “extrato_eletronico_20171223-390833_23122017_000000692_400.TXT”, na linha “2065”.
 b) R$ 359,60.
@@ -7,15 +10,15 @@ e) R$ 129,85.
 f) Os dados referente ao recebimento da venda se encontram no arquivo “01167639000129.BJR06.D1190314.T033915”, na linha “4”.
 
 Atividade 3:
-
+Não consegui identificar o motivo do erro. É relatado que o arquivo 01167639000129.BJR02.D1180910.T011541 possui um erro na linha 13, e que esse erro seria referente a informação enviada como tipo de serviço. Porém, não consegui identificar por que essa informação resultaria em um erro, já que a posição da informação confere com o descrito no manual (posições 105 a 108), e também o código informado (PGTX) consta entre os códigos listados como Tipos de Serviço suportados. Presumo que, caso eu não tenha deixado passar alguma informação, o arquivo esteja correto
 
 Atividade 4:
 
 Bom dia,
 
-Meu nome é Rafael, e sou funcionário da Netunna, empresa responssavel pela conciliação financeira das transações de cartões, efetuadas pelo seu estabelecimento.
+Meu nome é Rafael, e sou funcionário da Netunna, empresa responsável pela conciliação financeira das transações de cartões, efetuadas pelo seu estabelecimento.
 Estou entrando em contato para solicitar algumas informações necessárias para a integração de nosso sistema com sua empresa.
-Será necessário sabermos com quais adquirentes você trabalha, para que possamos entrar em contato com elas, afim de solicitar o recebimento diário dos dados das transações efetuadas no estabelecimento. Também precisamos dos dados dos gerentes das contas, para que possamos entrar em contato com eles, e assim, solicitar o inicio do tráfego de dados com os bancos.
+Será necessário sabermos com quais adquirentes você trabalha, para que possamos entrar em contato com elas, a fim de solicitar o recebimento diário dos dados das transações efetuadas no estabelecimento. Também precisamos dos dados dos gerentes das contas, para que possamos entrar em contato com eles, e assim, solicitar o início do tráfego de dados com os bancos.
 Reforço que estas informações são necessárias para dar continuidade a integração do sistema, por isso, fico no aguardo de uma resposta com o envio das mesmas.
 
 Grato,
