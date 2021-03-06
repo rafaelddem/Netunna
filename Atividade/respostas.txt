@@ -13,8 +13,8 @@ O erro se deve ao tipo de serviço informado. No documento consta como "PGTU", q
 
 Bom dia,
 
-Meu nome é Rafael, sou funcionário da Netunna, e somos responssáveis por fazer a conciliação financeira das transações de cartões de nossos clientes e sua empresa.
-Estou entrando em contato devido a um erro de integração entre um de seus arquivos e nosso sistema. O arquivo em questão é o de nome "01167639000129.BJR02.D1180910.T011541", e o erro se encontra na linha 13 (transação com os seguintes dados: NSU 437737, Data Movimento 07/09/2018 e valor 139,80), que traz como identificação de serviço o código "PGTU". Entretanto, esse código não esta listado entre os códigos catalogados (PGTA, PGTP, PGTX, PGTF, PGTB e PGTJ) no manual que nos foi fornecido. Gostaria que fosse confirmado se esse código é novo, ou se ele se deve a um erro no arquivo. Se for um erro, solicito o reenvio do arquivo com os dados corrigidos. Caso se trate de uma informação válida, solicito um manual atualizado do relatório de transações, descrevendo todas os novos códigos aceitos, bem como outras possíveis atualizações.
+Meu nome é Rafael, sou funcionário da Netunna, e somos responsáveis por fazer a conciliação financeira das transações de cartões de nossos clientes e sua empresa.
+Estou entrando em contato devido a um erro de integração entre um de seus arquivos e nosso sistema. O arquivo em questão é o de nome "01167639000129.BJR02.D1180910.T011541", e o erro se encontra na linha 13 (transação com os seguintes dados: NSU 437737, Data Movimento 07/09/2018 e valor 139,80), que traz como identificação de serviço o código "PGTU". Entretanto, esse código não esta listado entre os códigos catalogados (PGTA, PGTP, PGTX, PGTF, PGTB e PGTJ) no manual que nos foi fornecido. Gostaria que fosse confirmado se esse código é novo, ou se ele se deve a um erro no arquivo. Se for um erro, solicito o reenvio do arquivo com os dados corrigidos. Caso se trate de uma informação válida, solicito um manual atualizado do relatório de transações, descrevendo todos os novos códigos aceitos, bem como outras possíveis atualizações.
 
 
 Grato pela atenção,
