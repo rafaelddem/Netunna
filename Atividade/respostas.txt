@@ -1,6 +1,3 @@
-Atividade 1:
-Como citado no e-mail que enviei, o arquivo "01167639000129.BJR76.D1181008.T012700" possui uma informação em seu header (BJRVCMB), que não foi catalogado no pdf, por isso fiquei em dúvida de onde ele deveria ser armazenado. Então deixei ele em uma pasta genérica, a qual nomeei como "Arquivos não catalogados"
-
 Atividade 2:
 a) Os dados da venda se encontram no arquivo “extrato_eletronico_20171223-390833_23122017_000000692_400.TXT”, na linha “2065”.
 b) R$ 359,60.
@@ -9,8 +6,22 @@ d) Os dados da venda se encontram no arquivo “01167639000129.BJR02.D1190314.T0
 e) R$ 129,85.
 f) Os dados referente ao recebimento da venda se encontram no arquivo “01167639000129.BJR06.D1190314.T033915”, na linha “4”.
 
+/*****************/
+
 Atividade 3:
-Não consegui identificar o motivo do erro. É relatado que o arquivo 01167639000129.BJR02.D1180910.T011541 possui um erro na linha 13, e que esse erro seria referente a informação enviada como tipo de serviço. Porém, não consegui identificar por que essa informação resultaria em um erro, já que a posição da informação confere com o descrito no manual (posições 105 a 108), e também o código informado (PGTX) consta entre os códigos listados como Tipos de Serviço suportados. Presumo que, caso eu não tenha deixado passar alguma informação, o arquivo esteja correto
+O erro se deve ao tipo de serviço informado. No documento consta como "PGTU", que não é suportado. Segue possível e-mail solicitando correção:
+
+Bom dia,
+
+Meu nome é Rafael, sou funcionário da Netunna, e somos responssáveis por fazer a conciliação financeira das transações de cartões de nossos clientes e sua empresa.
+Estou entrando em contato devido a um erro de integração entre um de seus arquivos e nosso sistema. O arquivo em questão é o de nome "01167639000129.BJR02.D1180910.T011541", e o erro se encontra na linha 13 (transação com os seguintes dados: NSU 437737, Data Movimento 07/09/2018 e valor 139,80), que traz como identificação de serviço o código "PGTU". Entretanto, esse código não esta listado entre os códigos catalogados (PGTA, PGTP, PGTX, PGTF, PGTB e PGTJ) no manual que nos foi fornecido. Gostaria que fosse confirmado se esse código é novo, ou se ele se deve a um erro no arquivo. Se for um erro, solicito o reenvio do arquivo com os dados corrigidos. Caso se trate de uma informação válida, solicito um manual atualizado do relatório de transações, descrevendo todas os novos códigos aceitos, bem como outras possíveis atualizações.
+
+
+Grato pela atenção,
+Rafael Delfino de Medeiros
+Netunna - Setor de desenvolvimento
+
+/*****************/
 
 Atividade 4:
 
